@@ -3,7 +3,9 @@
 
 # For each: "http://iracingruck.us/<whatever>" --> <destination url>
 
+/league         https://members.iracing.com/membersite/member/LeagueView.do?league=4923
 /rules          https://docs.google.com/document/d/e/2PACX-1vSAUFL0yMGrKiKXb6O0yVHuoCDkeZhhWqwxIeIKXGrpDRPuohi6VcVmYLCLboAPUX1glCkIKhhPHq2N/pub
+
 /s1-tracker     https://docs.google.com/spreadsheets/d/1CPKj5VCUU2xdjLr-ByTsZcxLw9qR150lt5p9vDpZhfk/edit?usp=sharing
 
 /schedule       https://calendar.google.com/calendar/embed?src=c_fc8spa75qvibobu000e7em2270%40group.calendar.google.com
