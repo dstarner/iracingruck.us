@@ -3,6 +3,7 @@
 
 # For each: "http://iracingruck.us/<whatever>" --> <destination url>
 
+/feedback       https://forms.gle/C7in86HxagtdAM8K7
 /league         https://members.iracing.com/membersite/member/LeagueView.do?league=4923
 /rules          https://docs.google.com/document/d/e/2PACX-1vSAUFL0yMGrKiKXb6O0yVHuoCDkeZhhWqwxIeIKXGrpDRPuohi6VcVmYLCLboAPUX1glCkIKhhPHq2N/pub
 
