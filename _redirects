@@ -3,6 +3,7 @@
 
 # For each: "http://iracingruck.us/<whatever>" --> <destination url>
 
+/discord        https://discord.gg/a3Sfje7d2H
 /feedback       https://forms.gle/C7in86HxagtdAM8K7
 /league         https://members.iracing.com/membersite/member/LeagueView.do?league=4923
 /rules          https://docs.google.com/document/d/e/2PACX-1vSAUFL0yMGrKiKXb6O0yVHuoCDkeZhhWqwxIeIKXGrpDRPuohi6VcVmYLCLboAPUX1glCkIKhhPHq2N/pub
@@ -12,6 +13,3 @@
 /schedule       https://calendar.google.com/calendar/embed?src=c_fc8spa75qvibobu000e7em2270%40group.calendar.google.com
 /gcal           https://calendar.google.com/calendar/u/0?cid=Y19mYzhzcGE3NXF2aWJvYnUwMDBlN2VtMjI3MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t
 /ical           https://calendar.google.com/calendar/ical/c_fc8spa75qvibobu000e7em2270%40group.calendar.google.com/public/basic.ics
-
-#fallback
-/*              https://discord.gg/a3Sfje7d2H

@@ -4,7 +4,7 @@
   "scripts": {
     "shorten": "netlify-shortener"
   },
-  "author": "cassidoo",
+  "author": "dstarner",
   "devDependencies": {
     "netlify-shortener": "^2.4.0"
   }
