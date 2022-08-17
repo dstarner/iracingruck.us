@@ -48,6 +48,7 @@
         .rubik {
             font-family: 'Rubik', sans-serif;
         }
+
         .rubik-dirt {
             font-family: 'Rubik Dirt', cursive;
         }
@@ -292,16 +293,23 @@
                 <div class="h-40 w-full isolate bg-red-700 noisy flex justify-center">
                     <img class="h-full" src="./assets/iRacing-Logo.png" />
                 </div>
-                <div class="text-center">
-                    <h1>
-                        <div id="title" class="w-full rubik">
-                            MONDAY NIGHT
-                        </div>
-                        <div id="subtitle" class="-mt-8 sm:-mt-12 md:-mt-16 rubik-dirt">
-                            RUCKUS
-                        </div>
-                    </h1>
-                    <hr class="border-4 border-red-600 duration-500" />
+                <div class="relative overflow-hidden">
+                    <video autoplay loop muted class="absolute opacity-20 z-10 w-auto min-w-full min-h-full max-w-full">
+                        <source src="./assets/iRacing-video.mp4" type="video/mp4" />
+                        Your browser does not support the video tag.
+                    </video>
+                    <div class="relative z-30 text-center">
+                        <h1>
+                            <div id="title" class="w-full rubik">
+                                MONDAY NIGHT
+                            </div>
+                            <div id="subtitle" class="-mt-8 sm:-mt-12 md:-mt-16 rubik-dirt">
+                                RUCKUS
+                            </div>
+                        </h1>
+                        <hr class="border-4 border-red-600 duration-500" />
+                    </div>
+                    
                 </div>
             </div>
         </div>
